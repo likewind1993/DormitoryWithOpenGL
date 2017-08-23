@@ -1,0 +1,19 @@
+﻿  main.cpp
+e:\code\c++\graph\dormitory\dormitory\shader.h(65): warning C4101: “infoLog”: 未引用的局部变量
+e:\code\c++\graph\dormitory\dormitory\shader.h(64): warning C4101: “success”: 未引用的局部变量
+main.cpp(33): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+main.cpp(34): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+main.cpp(414): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+main.cpp(745): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main.cpp(746): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main.cpp(750): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+main.cpp(751): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+main.cpp(753): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main.cpp(754): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  8 of 746 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  dormitory.vcxproj -> E:\code\C++\graph\dormitory\Release\dormitory.exe
+  dormitory.vcxproj -> E:\code\C++\graph\dormitory\Release\dormitory.pdb (Full PDB)
